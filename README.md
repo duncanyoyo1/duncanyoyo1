@@ -1,7 +1,7 @@
 Readme.md
 
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://duncanyoyo1.github.io/images/logo.svg" width="32px">  
-I'm [Duncanyoyo1](https://github.com/duncanyoyo1)！I am passionate about Open Source, Linux, and other great OSS software.
+# <img src="https://duncanyoyo1.github.io/images/logo.svg" width="32px"> 𝗛𝗲𝗹𝗹𝗼！ 
+I'm [Duncanyoyo1](https://github.com/duncanyoyo1)! I am passionate about Open Source, Linux, and other great OSS software.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/duncanyoyo1)](https://twitter.com/duncanyoyo1)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duncanyoyo1@gmail.com)](mailto:duncanyoyo1@gmail.com)
