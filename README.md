@@ -1,5 +1,3 @@
-Readme.md
-
 # <img src="https://duncanyoyo1.github.io/images/logo.svg" width="32px"> 𝗛𝗲𝗹𝗹𝗼！ 
 I'm [Duncanyoyo1](https://github.com/duncanyoyo1)! I am passionate about Open Source, Linux, and other great OSS software.
 
@@ -13,5 +11,5 @@ I'm [Duncanyoyo1](https://github.com/duncanyoyo1)! I am passionate about Open So
 ## 🧐 About
 
 - 🙇 I love to FORK 🍴
-- 📫 How to reach me: <a href="https://discordapp.com/channels/@me/815281116482895962/">Discord @duncanyoyo1#0785</a>
+- 📫 How to reach me: <a href="https://discordapp.com/users/281308567695261707">Discord @duncanyoyo1#0785</a>
 - 🌱 Languages and Tools: Almost every common language :)
