@@ -11,5 +11,5 @@ I'm [Duncanyoyo1](https://github.com/duncanyoyo1)! 👋 I am passionate about Op
 ## 🧐 About
 
 - 🙇 I love to FORK 🍴
-- 📫 How to reach me: <img src="https://raw.githubusercontent.com/duncanyoyo1/duncanyoyo1/master/assets/discord-round.svg" width="24px"><a href="https://discordapp.com/users/281308567695261707">Discord @duncanyoyo1#0785</a>
+- 📫 How to reach me: <img src="https://raw.githubusercontent.com/duncanyoyo1/duncanyoyo1/master/assets/discord-round.svg" width="18px"><a href="https://discordapp.com/users/281308567695261707">Discord @duncanyoyo1#0785</a>
 - 🌱 Languages and Tools: Almost every common language :)
