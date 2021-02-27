@@ -1,5 +1,5 @@
 # <a href="https://github.com/duncanyoyo1"><img src="https://raw.githubusercontent.com/duncanyoyo1/duncanyoyo1/main/assets/icon.svg" width="32px"></a> 𝗛𝗲𝗹𝗹𝗼！ 
-I'm [Duncanyoyo1](https://github.com/duncanyoyo1)! 👋 I am passionate about Open Source, Linux, and other great OSS software.
+I'm [Duncanyoyo1](https://github.com/duncanyoyo1)! 👋 I am passionate about Open Source, Linux, and other great Open Source software.
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/duncanyoyo1?label=Follow%20on%20Twitter&style=plastic)](https://twitter.com/duncanyoyo1)
