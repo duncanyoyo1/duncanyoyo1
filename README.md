@@ -6,7 +6,7 @@ I'm [Duncanyoyo1](https://github.com/duncanyoyo1)! 👋 I am passionate about Op
 [![GitHub followers](https://img.shields.io/github/followers/duncanyoyo1?label=Follow%20on%20GitHub&style=plastic)](https://github.com/duncanyoyo1)
 [![Discord](https://img.shields.io/discord/605830911807717378?label=Discord&style=plastic)](https://discord.gg/WWXkT6gryY)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:duncanyoyo1@gmail.com)](mailto:duncanyoyo1@gmail.com)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=duncanyoyo1)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=duncanyoyo1)](https://visitor-badge.laobi.icu/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=duncanyoyo1&show_icons=true&hide_border=true&theme=tokyonight">
 
