@@ -1,6 +1,6 @@
 Readme.md
 
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://avatars.githubusercontent.com/u/24286951?s=32&v=4" width="32px">  
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://duncanyoyo1.github.io/images/logo.svg" width="32px">  
 I'm [Duncanyoyo1](https://github.com/duncanyoyo1)！I am passionate about Open Source, Linux, and other great OSS software.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/duncanyoyo1)](https://twitter.com/duncanyoyo1)
