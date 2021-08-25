@@ -13,5 +13,5 @@ I'm [Duncanyoyo1](https://github.com/duncanyoyo1?tab=repositories)! 👋 I am pa
 ## 🧐 About
 
 - 🙇 I love to FORK🍴
-- 📫 How to reach me: <a href="https://discordapp.com/users/281308567695261707"><img src="https://raw.githubusercontent.com/duncanyoyo1/duncanyoyo1/master/assets/discord-round.svg" width="18px">Discord @duncanyoyo1#0785</a>
+- 📫 How to reach me: <a href="https://discordapp.com/users/281308567695261707"><img src="https://raw.githubusercontent.com/duncanyoyo1/duncanyoyo1/master/assets/discord-round.svg" width="18px">Discord</a>
 - 🌱 Languages and Tools: Almost every common language :)
