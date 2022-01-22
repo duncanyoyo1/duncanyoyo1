@@ -4,7 +4,8 @@ I'm [Duncanyoyo1](https://github.com/duncanyoyo1?tab=repositories)! 👋 I am pa
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/duncanyoyo1?label=Follow%20on%20Twitter&style=plastic)](https://twitter.com/duncanyoyo1)
 [![GitHub followers](https://img.shields.io/github/followers/duncanyoyo1?label=Follow%20on%20GitHub&style=plastic)](https://github.com/duncanyoyo1)
-[![Discord](https://img.shields.io/discord/605830911807717378?label=Discord&style=plastic)](https://discord.gg/WWXkT6gryY)
+[![Discord](https://img.shields.io/discord/456953264857153536?label=DIY_eJuice&logo=Discord)](https://discord.gg/ejuice)
+
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:duncanyoyo1@gmail.com)](mailto:duncanyoyo1@gmail.com)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=duncanyoyo1)](https://visitor-badge.laobi.icu/)
 
