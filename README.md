@@ -6,7 +6,7 @@ I'm [Duncanyoyo1](https://github.com/duncanyoyo1?tab=repositories)! 👋 I am pa
 [![GitHub followers](https://img.shields.io/github/followers/duncanyoyo1?label=Follow%20on%20GitHub&style=social)](https://github.com/duncanyoyo1)
 [![Discord](https://img.shields.io/discord/456953264857153536?label=%20&logo=Discord&style=social)](https://discord.gg/ejuice)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=social&logo=gmail&link=mailto:duncanyoyo1@gmail.com)](mailto:duncanyoyo1@gmail.com)
-[![visitors]([https://visitor-badge.laobi.icu/badge?page_id=duncanyoyo1])](https://visitor-badge.laobi.icu/)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=duncanyoyo1)](https://visitor-badge.laobi.icu/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=duncanyoyo1&show_icons=true&hide_border=true&theme=tokyonight">
 
