@@ -2,7 +2,7 @@
 I'm [Duncanyoyo1](https://github.com/duncanyoyo1?tab=repositories)! 👋 I am passionate about Open Source and Linux, as well as other great Open Source software and web technologies.
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/duncanyoyo1?label=Follow%20on%20Twitter&style=plastic)](https://twitter.com/duncanyoyo1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/duncanyoyo1?label=Follow%20on%20Twitter&style=social)](https://twitter.com/duncanyoyo1)
 [![GitHub followers](https://img.shields.io/github/followers/duncanyoyo1?label=Follow%20on%20GitHub&style=plastic)](https://github.com/duncanyoyo1)
 [![Discord](https://img.shields.io/discord/456953264857153536?label=%20&logo=Discord&style=plastic)](https://discord.gg/ejuice)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:duncanyoyo1@gmail.com)](mailto:duncanyoyo1@gmail.com)
